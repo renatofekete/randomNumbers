@@ -14,7 +14,7 @@ function mainNumPush() {
 mainNumPush();
 
 function secondaryNumPush() {
-  for (i = 1; i <= 9; i++) {
+  for (i = 1; i <= 10; i++) {
     secondaryNumbers.push(i);
   }
 }
